@@ -2,7 +2,12 @@ body{
 	background: rgb(10,10,10);
 }
 #canvas{
+	position:absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
 	display: block;
-	margin:0 auto;
+	margin:auto;
 	border:1px solid rgb(10,10,10);
 }
